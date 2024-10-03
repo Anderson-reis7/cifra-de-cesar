@@ -9,9 +9,9 @@ Interface Intuitiva: Interface simples, com um campo de entrada de texto, um sel
 
 Tecnologias Utilizadas<br/>
 
-HTML: Estrutura da página.
-CSS: Estilização da interface.
-JavaScript: Lógica da cifra de César e manipulação da interface.
+HTML: Estrutura da página.<br/>
+CSS: Estilização da interface.<br/>
+JavaScript: Lógica da cifra de César e manipulação da interface.<br/>
 
 Como Usar<br/>
 
@@ -22,9 +22,9 @@ A mensagem criptografada será exibida abaixo.
 
 Exemplo<br/>
 
-Mensagem original: "Uma mensagem ruim"
-Deslocamento: 25 (mudança para 'Z')
-Resultado: "TLZ LDMRRZFDL QTHL"
+Mensagem original: "Uma mensagem"<br/>
+Deslocamento: 25 (mudança para 'Z')<br/>
+Resultado: "TLZ LDMRRZFDL"<br/>
 
 Sobre a Cifra de César<br/>
 
